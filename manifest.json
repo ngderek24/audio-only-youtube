@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "Audio-Only Youtube",
+  "version": "1.0",
+
+  "description": "Adds a browser action icon to the toolbar. Click the button to hide the video panel of Youtube, so only the audio will be heard.",
+  "homepage_url": "https://github.com/tincan24/audio-only-youtube",
+  "icons": {
+    "48": "icons/novideo-48.jpg",
+    "32": "icons/novideo-32.jpg"
+  },
+
+  "permissions": [
+    "activeTab"
+  ]
+
+}
